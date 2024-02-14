@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNACH.Demo1.CalculadoraWF", "UNACH.Demo1.CalculadoraWF\UNACH.Demo1.CalculadoraWF.csproj", "{C69CD5F1-B5EE-4C4B-84B7-A43C29AC3DED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNACH.Demo1.CalculadoraWPF", "UNACH.Demo1.CalculadoraWPF\UNACH.Demo1.CalculadoraWPF.csproj", "{74F396F7-8471-429A-ACA9-8BFDA631C777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C69CD5F1-B5EE-4C4B-84B7-A43C29AC3DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69CD5F1-B5EE-4C4B-84B7-A43C29AC3DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69CD5F1-B5EE-4C4B-84B7-A43C29AC3DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69CD5F1-B5EE-4C4B-84B7-A43C29AC3DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F396F7-8471-429A-ACA9-8BFDA631C777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F396F7-8471-429A-ACA9-8BFDA631C777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F396F7-8471-429A-ACA9-8BFDA631C777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F396F7-8471-429A-ACA9-8BFDA631C777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5571A499-5ACE-4289-AEE9-BFE5A2F26C65}
+	EndGlobalSection
+EndGlobal
